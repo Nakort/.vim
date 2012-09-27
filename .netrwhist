@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/nakort/sandboxes/js/fam-client'
+let g:netrw_dirhist_2='/Users/nakort/sandboxes/rails/freeallmedia/fam-client'
+let g:netrw_dirhist_3='/Users/nakort/sandboxes/sinatra'
+let g:netrw_dirhist_4='/Users/nakort/sandboxes/rails/am-ml'
+let g:netrw_dirhist_5='/Users/nakort/sandboxes/rails/shipping_lob'
